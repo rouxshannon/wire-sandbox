@@ -34,3 +34,20 @@ You can copy and edit the following html code example:
         </div>
       </div>
 <!-- End Doug's profile -->
+
+<!-- Start Shannon's profile -->
+ <div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="{{site.baseurl}}/assets/images/Shannon.jpg" alt="Shannon's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Shannon has worked as part of the creative team since the winter of 2017,  heading projects such as the Research Paper Planner and Integrating Citations modules. She will be working full time at WI+RE for the Spring 2018 Quarter before moving to Chicago to serve as a Elementary Special Education Teacher! Shannon is excited about creating materials that can facilitate meaningful learning across the diverse range of learners we serve!
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Shannon's profile -->
